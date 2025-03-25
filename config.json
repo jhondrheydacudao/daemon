@@ -6,7 +6,7 @@
   "port": 25577,
   "version": "0.1.0-beta1",
   "mysql": {
-    "host": "localhost",
+    "host": "194.62.248.12",
     "user": "root",
     "password": ""
   },
